@@ -2,6 +2,12 @@
 Tolnai Dávid vagyok, távközlés technikusnak tanulok.
 ---
 ## Alapok, ohm és kirhoff törvények
+### Alapismeretek
+| Neve | jele | mértékegysége |
+|-------------|------|--------|
+| Feszültség | U | V(volt) |
+| Áramerősség | I | A(amper) |
+| Ellenállás | R | ohm |
 ### Három fontos alap tövény:
 1. Ohm törvénye
 2. Kirchoff 1 törvénye, csomóponti
