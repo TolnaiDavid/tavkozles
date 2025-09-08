@@ -15,6 +15,5 @@ Tolnai Dávid vagyok, távközlés technikusnak tanulok.
 ### Kirchoff 2 törvénye (hurok törvény):
 <img width="1086" height="685" alt="image" src="https://github.com/user-attachments/assets/11e8a924-8580-4599-83b8-b4bf2334ab23" />
 
-## Linkek a letölthető projektetkhez:
-|11.-es projrektek|12.-es projektek|
-|[Rendőrségi villogó]([https://www.example.com](https://tolnaidavid.github.io/projektek/Projektmunka(1).pdf))||
+## Link a letölthető projektetkhez:
+[Link a projektekhez](https://tolnaidavid.github.io/projektek/kozpont.html)
