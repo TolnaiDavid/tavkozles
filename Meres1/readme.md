@@ -18,5 +18,5 @@ $Up = U * \sqrt{2} = 50 * 1.4142 = 70,7V $
 
 ---
 
-[Kapcsolás: (https://tinyurl.com/2xhjcauv)]        
+*[Kapcsolás:](https://tinyurl.com/2xhjcauv)*        
 <img width="812" height="516" alt="image" src="https://github.com/user-attachments/assets/43b32be8-8402-4027-b4f4-f0263f4c33ee" />
