@@ -3,7 +3,7 @@
 **Feladat:**  
 > Egy áramkörben I = 0,5 A erősségű és 200 Hz frekvenciájú áram folyik.    
 Számítsuk ki az áramkör R = 100 Ω értékű ellenálláson eső feszültség csúcsértékét!    
-Rajzoljuk fel az áram és a feszültség vektoriális képet, az áram a cos függvány szerint változzon! 
+Rajzoljuk fel az áram és a feszültség vektoriális képet, az áram a cos függvény szerint változzon! 
 
 **Adatok:**  
 $I = 0,5 A$     
