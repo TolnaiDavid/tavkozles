@@ -1,6 +1,6 @@
-## RC szűrő kapcsolás(Alul áteresztő)    
+# RC szűrő kapcsolás(Alul áteresztő)    
 
-# Születési idő: 2006.07.26
+## Születési idő: 2006.07.26
 
 R= 7 ohm    
 C= 26 mikrofarád
