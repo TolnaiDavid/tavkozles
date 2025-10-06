@@ -1,12 +1,14 @@
 # RC szűrő kapcsolás(Alul áteresztő)    
 
-## Születési idő: 2006.07.26
+## Születési idő: 2006.07.26    
 
-R= 7 ohm    
-C= 26 mikrofarád
+$R= 7ohm$     
+$C= 26uF$      
    
-Kiszámolom a határ frekvenciát: 1 / 2 * π * R * C  
-1 / 2 * π * 26 mikrofarád * 7 ohm     
+Kiszámolom a határ frekvenciát:   
+$fh = 1 / (2 * π * R * C)$  
+
+$fh = 1 / (2 * π * 26 uF * 7 ohm)$     
 
 [Link a falstadhoz](https://tinyurl.com/2a6tdv2s)      
 <img width="718" height="353" alt="image" src="https://github.com/user-attachments/assets/6b2e2625-9e70-42da-b7a5-80a4ab8ba2c7" />
