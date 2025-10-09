@@ -42,15 +42,15 @@ Időjárási körülményel 13 Celsiusfok, borult, enyhén párás
 
 **A Miskolci TV adótorony által sugárzott frekvenciák**     
 <img width="883" height="352" alt="Képernyőkép 2025-10-09 095505" src="https://github.com/user-attachments/assets/7c0d77cc-bbd8-4324-9930-7ec74bb1c85b" />       
-**A CH41 -ös csatornán mért spektrum**        
+**A CH41 -es csatornán mért spektrum**        
 <img width="1292" height="719" alt="image" src="https://github.com/user-attachments/assets/ec666487-ec58-4d2d-8269-f3f1583244c3" />     
-**A CH41 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**       
+**A CH41 -es csatornán mért jelerősség, jel/zaj viszony, és bithibák**       
 <img width="1289" height="724" alt="image" src="https://github.com/user-attachments/assets/8628ae4f-8cc6-4461-bb39-b4ab903673dd" />      
-**A CH41 -ös csatorna konstellációs diagramja**      
+**A CH41 -es csatorna konstellációs diagramja**      
 <img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/4705a6a8-a644-43a1-a9f3-43619d6cde00" />     
-**A CH41 -ös csatornán a MiskolciTV HD jelszint és TV adás**      
+**A CH41 -es csatornán a MiskolciTV HD jelszint és TV adás**      
 <img width="1273" height="707" alt="image" src="https://github.com/user-attachments/assets/eb47babd-7ff8-46e7-99ab-43bb8264c017" />      
-**A CH41 -ös csatornán a MiskolciTV HD műsora**       
+**A CH41 -es csatornán a MiskolciTV HD műsora**       
 <img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/3ac0584a-ce06-4bb7-a7fe-5fa2424ae2f4" />      
 
 
