@@ -46,5 +46,6 @@ $$fh = {1 \over (2 * π * 26 uF * 7 ohm)}=874,4 Hz$$
 |10000          |	0,98   |
 |15000          | 1      |
 
-<img width="742" height="456" alt="image" src="https://github.com/user-attachments/assets/b3904d88-50a5-402b-afe3-acffb8be41c1" />
+<img width="751" height="457" alt="image" src="https://github.com/user-attachments/assets/9dd719b7-9ca3-45ba-8e0b-0b812faf98f4" />
+
 
