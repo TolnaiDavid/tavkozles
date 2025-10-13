@@ -5,9 +5,9 @@
 $R= 7ohm$     
 $C= 26uF$      
 ---  
-Kiszámolom a határ frekvenciát: ami nekem 874,4 Hz      
+Kiszámolom a határ frekvenciát:      
 $$fh = {1 \over (2 * π * R * C)}$$   
-$$fh = {1 \over (2 * π * 26 uF * 7 ohm)}$$
+$$fh = {1 \over (2 * π * 26 uF * 7 ohm)}=874,5 Hz$$
 ---
 <img width="718" height="353" alt="image" src="https://github.com/user-attachments/assets/6b2e2625-9e70-42da-b7a5-80a4ab8ba2c7" />
 
@@ -25,4 +25,5 @@ Táblázat
 |5000           |	0,172  |
 |10000          |	0,086  |
 |15000          |	0,057  |
-<img width="663" height="411" alt="RC_kép" src="https://github.com/user-attachments/assets/5764338b-0729-4bdf-a9c6-005c10772248" />
+<img width="750" height="457" alt="image" src="https://github.com/user-attachments/assets/23c2cb83-c198-4783-a721-883362189fa5" />
+
