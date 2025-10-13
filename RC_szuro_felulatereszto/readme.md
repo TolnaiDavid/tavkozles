@@ -27,4 +27,5 @@ Táblázat
 |10000          |	0,98   |
 |15000          | 1      |
 
-<img width="740" height="457" alt="image" src="https://github.com/user-attachments/assets/264d58fd-5089-4d17-b81d-ab5bcfa40eaa" />
+<img width="742" height="453" alt="image" src="https://github.com/user-attachments/assets/ad83a8db-3d16-421d-bd42-f4f62da0d1ee" />
+
