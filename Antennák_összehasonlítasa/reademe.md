@@ -19,9 +19,24 @@ Csatorna: 41
 ## Mérési eredmények:       
 |Antenna típusa	  |Vételi pont 1  Jelszint (dBm)|	Vételi pont 2  Jelszint (dBm) |	Vételi pont 3 - Jelszint (dBm)|
 |-----------------|-----------------------------|--------------------------------|------------------------------|
-|SMART HD 550	    |-34,8dBm	                    |  -40,3dBm	                     | -58,5dBm                     |
-|ISKRA P20 LOGPER	|-38,9dBm	                    |  -48,9dBm	                     | -60,2dBm                     |
-|ISKRA P-2845f	  |-43,2dBm	                    |  -50,8dBm                      | -66,4dBm                     |  
+|SMART HD 550	    |34,8dBuV	                    |  40,3dBuV	                     | 58,5dBuV                     |
+|ISKRA P20 LOGPER	|38,9dBuV	                    |  48,9dBuV	                     | 60,2dBuV                     |
+|ISKRA P-2845f	  |43,2dBuV	                    |  50,8dBuV                      | 66,4dBuV                     |  
+
+## SMART HD 550 antenna:
+|Beltér|Kültér takarás|Kültér takarás nélkül|
+|---|---|---|
+|<img width="1101" height="618" alt="image" src="https://github.com/user-attachments/assets/6e2b164a-4c18-48c8-934e-3d009f713967" />|<img width="1098" height="615" alt="image" src="https://github.com/user-attachments/assets/4f40ed0b-e6c8-4c54-913e-f1718a39559f" />|<img width="1100" height="611" alt="image" src="https://github.com/user-attachments/assets/75e2b1f3-3826-43ba-917f-62eae2812634" />|
+
+## ISKRA P-20 antenna:
+|Beltér|Kültér takarás|Kültér takarás nélkül|
+|---|---|---|
+|<img width="1100" height="611" alt="image" src="https://github.com/user-attachments/assets/dceb87f1-131e-4f04-84fd-3eddaa738991" />|<img width="1093" height="615" alt="image" src="https://github.com/user-attachments/assets/d2033155-d416-4f93-a24d-978f98c03d28" />|<img width="1101" height="612" alt="image" src="https://github.com/user-attachments/assets/2787b1e1-2e76-4b92-ac13-a74af582665b" />|
+
+## ISKRA P-2845f antenna:
+|Beltér|Kültér takarás|Kültér takarás nélkül|
+|---|---|---|
+|<img width="1100" height="615" alt="image" src="https://github.com/user-attachments/assets/2a6c5f6a-a4ba-46c4-97e3-92f3fe070def" />|<img width="1095" height="624" alt="image" src="https://github.com/user-attachments/assets/7ea3c37b-b15d-4516-9f02-9156ef40eff0" />|<img width="1098" height="615" alt="image" src="https://github.com/user-attachments/assets/f07fb943-76f4-41e4-8110-a532f5de19d9" />|
 
 ## Időjárás: 
 
