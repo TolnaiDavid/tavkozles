@@ -1,6 +1,9 @@
-# MÉRÉSI JEGYZŐKÖNYV
+tékek között# MÉRÉSI JEGYZŐKÖNYV
+
+**Név:** Tolnai Dávid
+**Helyszín:** Kandó Kálmán Informatikai Technikum, V3 labor
+**Dátum:** 2026. 01. 28.
 **Téma:** Műveleti erősítő vizsgálata (Nem-invertáló alapkapcsolás)
-**Dátum:** 2026. 01. 29.
 **Eszközök:** NI ELVISmx (Function Generator, Oscilloscope), Áramkörszimulátor
 
 ---
@@ -32,8 +35,8 @@ Ez azt jelenti, hogy a kimeneti jel amplitúdója elméletileg 9.36-szorosa lesz
 
 ---
 
-## 4. Szimulációs eredmények (Kapcsolási rajz alapján)
-A kapcsolási rajzon látható szimulátor (2. kép) egyenáramú (DC) analízise vagy pillanatnyi értéke alapján:
+## 4. Szimulációs eredmények
+A kapcsolási rajzon látható szimulátor egyenáramú (DC) analízise alapján:
 * **Kimeneti feszültség:** $9.36\, \text{V}$
 
 Ez pontosan megegyezik az elméleti számítással, feltételezve, hogy a bemeneti feszültség $1\, \text{V}$ volt a szimuláció pillanatában.
@@ -57,22 +60,4 @@ Az oszcilloszkóp két csatornát rögzített:
 | Paraméter | Channel 0 (Bemenet) | Channel 1 (Kimenet) |
 | :--- | :--- | :--- |
 | **Beállítás (Scale)** | $200\, \text{mV/Div}$ | $1\, \text{V/Div}$ |
-| **Frekvencia** | $99.999\, \text{Hz}$ | $99.988\, \text{Hz}$ |
-| **Csúcs-csúcs feszültség ($V_{p-p}$)** | **$1.002\, \text{V}$** | **$9.357\, \text{V}$** |
-| **RMS feszültség** | $353.65\, \text{mV}$ | $3.287\, \text{V}$ |
-
----
-
-## 6. Kiértékelés és hibaszámítás
-
-A mért értékek alapján a tényleges erősítés ($A_{mért}$):
-
-$$A_{mért} = \frac{V_{out(p-p)}}{V_{in(p-p)}} = \frac{9.357\, \text{V}}{1.002\, \text{V}} \approx \mathbf{9.338}$$
-
-## 7. Összegzés
-A mérés során sikeresen összeállítottuk és vizsgáltuk a nem-invertáló erősítő kapcsolást.
-* Az elméleti erősítés **9.36** volt.
-* A mérési rendszerrel (NI ELVISmx) kapott erősítés **9.338**.
-* A szimulációs szoftver **9.36 V** kimenetet jelzett (1V bemenetnél).
-
-A mért és számított értékek közötti eltérés minimális (**0.23%**), ami a műszerek pontosságából és az alkatrészek toleranciájából adódhat. A mérés igazolta az elméleti összefüggést.
+| **Frekvencia** | $99.999\, \text{Hz}$ | $9
