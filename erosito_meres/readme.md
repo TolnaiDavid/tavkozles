@@ -1,4 +1,4 @@
-tékek között# MÉRÉSI JEGYZŐKÖNYV
+# MÉRÉSI JEGYZŐKÖNYV
 
 **Név:** Tolnai Dávid
 **Helyszín:** Kandó Kálmán Informatikai Technikum, V3 labor
