@@ -18,7 +18,7 @@ A mérés tárgya egy **nem-invertáló erősítő** (Non-Inverting Amplifier).
 * **R1 (Föld felé):** $12.2\, \text{k}\Omega$
 * **R2 (Visszacsatoló ág - Feedback):** $102\, \text{k}\Omega$
 * **R_in (Bemeneti lezárás):** $104\, \text{k}\Omega$
-* **Műveleti erősítő:** Ideális Op-Amp modell
+* **Műveleti erősítő:** Ideális Op-Amp modell (Simulációban) / NI myDAQ (Valós mérésben)
 
 ## 3. Elméleti számítások
 A nem-invertáló erősítő feszültségerősítését ($A_v$) az alábbi képlet határozza meg:
@@ -53,11 +53,39 @@ A függvénygenerátor beállításai a következők voltak:
 * **DC Offset:** $0.00\, \text{V}$
 
 ### 5.2. Oszcilloszkóp mérések
-Az oszcilloszkóp két csatornát rögzített:
-* **Channel 0 (Sárga):** Bemeneti jel (Input)
-* **Channel 1 (Kék):** Kimeneti jel (Output)
+Az oszcilloszkóp két csatornát rögzített (Bemenet és Kimenet).
 
 | Paraméter | Channel 0 (Bemenet) | Channel 1 (Kimenet) |
 | :--- | :--- | :--- |
 | **Beállítás (Scale)** | $200\, \text{mV/Div}$ | $1\, \text{V/Div}$ |
-| **Frekvencia** | $99.999\, \text{Hz}$ | $9
+| **Frekvencia** | $99.999\, \text{Hz}$ | $99.988\, \text{Hz}$ |
+| **Csúcs-csúcs feszültség ($V_{p-p}$)** | **$1.002\, \text{V}$** | **$9.357\, \text{V}$** |
+| **RMS feszültség** | $353.65\, \text{mV}$ | $3.287\, \text{V}$ |
+
+---
+
+## 6. Kiértékelés és hibaszámítás
+
+A mért értékek alapján a tényleges erősítés ($A_{mért}$):
+
+$$A_{mért} = \frac{V_{out(p-p)}}{V_{in(p-p)}} = \frac{9.357\, \text{V}}{1.002\, \text{V}} \approx \mathbf{9.338}$$
+
+**Hiba számítás (eltérés az elméleti értéktől):**
+
+$$\text{Hiba} (\%) = \left| \frac{A_{elméleti} - A_{mért}}{A_{elméleti}} \right| \times 100$$
+
+$$\text{Hiba} (\%) = \left| \frac{9.36 - 9.338}{9.36} \right| \times 100 \approx \mathbf{0.23\%}$$
+
+---
+
+## 7. Összegzés
+
+Az alábbi táblázat összefoglalja az elméleti, szimulált és mért eredményeket:
+
+| Adat | Elméleti számítás | Szimuláció | Mért (Valós) | Hiba (%) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Erősítés ($A_v$)** | $9.36$ | $9.36$ | $9.338$ | $0.23\%$ |
+| **Kimeneti fesz.** (1V bemenetnél) | $9.36\, \text{V}$ | $9.36\, \text{V}$ | $9.357\, \text{V}$ | - |
+
+**Következtetés:**
+A mérés során sikeresen összeállítottuk és vizsgáltuk a nem-invertáló erősítő kapcsolást. A mért és számított értékek közötti eltérés minimális (**0.23%**), ami a műszerek pontosságából és az ellenállások toleranciájából adódhat. A mérés igazolta az elméleti összefüggést.
