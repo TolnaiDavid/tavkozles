@@ -70,12 +70,6 @@ A mért értékek alapján a tényleges erősítés ($A_{mért}$):
 
 $$A_{mért} = \frac{V_{out(p-p)}}{V_{in(p-p)}} = \frac{9.357\, \text{V}}{1.002\, \text{V}} \approx \mathbf{9.338}$$
 
-**Hiba számítás (eltérés az elméleti értéktől):**
-
-$$\text{Hiba} (\%) = \left| \frac{A_{elméleti} - A_{mért}}{A_{elméleti}} \right| \times 100$$
-
-$$\text{Hiba} (\%) = \left| \frac{9.36 - 9.338}{9.36} \right| \times 100 \approx \mathbf{0.23\%}$$
-
 ---
 
 ## 7. Összegzés
