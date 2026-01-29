@@ -4,7 +4,7 @@
 **Helyszín:** Kandó Kálmán Informatikai Technikum, V3 labor
 **Dátum:** 2026. 01. 28.
 **Téma:** Műveleti erősítő vizsgálata (Nem-invertáló alapkapcsolás)
-**Eszközök:** NI ELVISmx (Function Generator, Oscilloscope), Áramkörszimulátor
+**Eszközök:** NI myDAQ (Function Generator, Oscilloscope), Áramkörszimulátor
 
 ---
 
